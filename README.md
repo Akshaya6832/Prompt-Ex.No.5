@@ -229,14 +229,15 @@ If you want, I can:
   * Across all scenarios, **basic prompts consistently outperformed naïve prompts**.
   * However, in very simple factual queries (*e.g., “What is 2+2?”*), naïve prompts can still produce correct results.
 
+
 <img width="1024" height="424" alt="image" src="https://github.com/user-attachments/assets/fbaa2a85-cdf2-4dd6-be98-2dcefe515881" />
 
 ## **Summary of Findings**
 
-1. Prompt clarity **directly impacts the quality, accuracy, and depth** of AI-generated responses.
-2. **Naïve prompts** → Generic, vague, sometimes confusing results.
-3. **Basic prompts** → Focused, structured, more informative, and task-specific outputs.
-4. For **creative, advisory, or explanatory tasks**, refined prompts are essential for optimal results.
+1. Prompt clarity directly impacts the quality, accuracy, and depth of AI-generated responses.
+2. Naïve prompts → Generic, vague, sometimes confusing results.
+3. Basic prompts → Focused, structured, more informative, and task-specific outputs.
+4. For creative, advisory, or explanatory tasks, refined prompts are essential for optimal results.
 5. Good prompt design is a skill: the more specific and structured the prompt, the better the AI performs.
 
 
